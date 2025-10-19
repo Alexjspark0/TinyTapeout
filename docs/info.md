@@ -9,12 +9,10 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-
+It works by pressing switches then button then switches again to make it ass
 ## How to test
 
-Explain how to use your project
-
+Test by first switching switches, then press the button to turn the clock on, stop switch 
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
